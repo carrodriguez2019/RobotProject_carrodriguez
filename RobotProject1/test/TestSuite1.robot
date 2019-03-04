@@ -21,6 +21,8 @@ MySecondTest
 MyThirdTest
     Log    I am inside 3rd test 
 
+MyFourTest
+    Log    I am inside 4th test 
 # FirsSeleniumTest
     # Open Browser    https:google.com    chrome 
     # Set Browser Implicit Wait    5
